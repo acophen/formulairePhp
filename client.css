@@ -1,0 +1,16 @@
+fieldset {
+	background:#ffffdd;
+}
+legend {
+	color:#3333dd;
+	background:#ccccff;
+}
+tr {
+	color:red;
+}
+.td {
+	color:blue;
+}
+body {
+	margin-right:250px;
+}
